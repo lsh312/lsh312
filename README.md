@@ -52,6 +52,13 @@ RAG-powered tarot reading API. Draws real cards from a shuffled deck, retrieves 
 
 ---
 
+### [✈️ MLOps Kickoff — Flight Delay Predictor](https://github.com/cmiebach/1-mlops-kickoff-repo)
+End-to-end MLOps pipeline predicting departure delays (>15 min) at London Heathrow. Transforms a Jupyter notebook into a production-grade system: modular architecture with separate data loading, validation, training, and inference stages; config-driven pipeline via config.yaml; quality gates preventing data leakage; FastAPI serving deployed on Render; and experiment tracking with Weights & Biases. Targets ≥90% test coverage.
+
+`Scikit-learn` `FastAPI` `Weights & Biases` `pytest` `Docker` `Render` `MLOps`
+
+---
+
 ### [🚢 Shipment Disruption Predictor](https://github.com/lsh312/shipment-disruption-predictor)
 Binary classification pipeline predicting supply chain disruptions on 5,000 shipment records. Benchmarked 6 models; tuned Logistic Regression achieved ROC-AUC 0.818 and Recall 0.770, optimising for the cost of missed disruptions. Includes SHAP interpretability, engineered risk features, SMOTE rebalancing, and a self-contained HTML report. Originally a group ML course project — refactored post-course into a modularised `src/` codebase with CLI, config-driven hyperparameters, pytest suite, and a production roadmap for live TMS integration.
 
