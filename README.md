@@ -66,13 +66,6 @@ Binary classification pipeline predicting supply chain disruptions on 5,000 ship
 
 ---
 
-### [🗺 Lebanon Conflict Map](https://github.com/lsh312/lebanon-conflict-map)
-Interactive geospatial visualisation of the Lebanon conflict and its humanitarian impact. Built to make dense event data accessible and explorable.
-
-`Python` `Geospatial` `Data Visualisation`
-
----
-
 ## 💼 Experience Highlights
 
 **Bell Canada** · Technical Product Manager & Business Analyst *(2023–2025)*
