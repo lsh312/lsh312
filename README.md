@@ -66,17 +66,6 @@ Binary classification pipeline predicting supply chain disruptions on 5,000 ship
 
 ---
 
-## 💼 Experience Highlights
-
-**Bell Canada** · Technical Product Manager & Business Analyst *(2023–2025)*
-- Built SQL/Python pipelines processing telecom sales and network datasets
-- Deployed Elastic + Kibana dashboards monitoring ML model performance in real-time (accuracy >85%)
-- Cut SLA timelines by 50% through workflow automation; reduced meeting overhead by 60% via Agile
-
-**KPMG Canada** · Management Consulting Intern *(2022)*
-
----
-
 ## 🎓 Education
 
 - **MSc Business Analytics & Data Science** — IE University, Madrid *(2026)* · IE Women in STEM Scholar · Advanced Tech Track (Top 5%)
